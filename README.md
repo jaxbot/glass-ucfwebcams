@@ -10,3 +10,7 @@ It's relatively simple; just puts together some WebViews you can scroll through,
 
 Public domain, feel free to tinker with it!
 
+Here's what it looks like:
+
+<img src='http://jaxbot.me/pics/ucfwebcams_glass.jpg' alt='Me looking at the student union webcam through Glass'>
+
